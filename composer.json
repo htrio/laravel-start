@@ -11,6 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0",
-        "rap2hpoutre/laravel-log-viewer": ">=1.7"
+        "rap2hpoutre/laravel-log-viewer": ">=1.7",
+        "barryvdh/laravel-debugbar": ">=3.5.0"
     }
 }
