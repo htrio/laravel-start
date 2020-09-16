@@ -10,3 +10,7 @@ add to composer.json
     "require": {
         "htrio/laravel-start": "dev-master"
     },
+
+Instructions:
+1. https://packagist.org/packages/rap2hpoutre/laravel-log-viewer
+2. https://packagist.org/packages/barryvdh/laravel-debugbar
