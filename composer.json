@@ -1,0 +1,16 @@
+{
+    "name": "htrio/laravel_start",
+    "description": "Start package for Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Author",
+            "email": "support@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "rap2hpoutre/laravel-log-viewer": ">=1.7",
+    }
+}
